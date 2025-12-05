@@ -1,8 +1,5 @@
 this is newly added Test story which ind on 
 
-<<<<<<< HEAD
 process the data v1 git
-=======
 process the data v1 
 create a  avatar for Usr 
->>>>>>> feature1
